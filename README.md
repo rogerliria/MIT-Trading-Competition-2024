@@ -36,11 +36,11 @@ Each scenario folder includes scripts that simulate the respective trading envir
 
 ### DRW Data Science Case
 
-Contains the Python implementation of the trading strategy developed for the DRW Data Science Case. The `drw_strategy.py` file includes the strategy function designed to maximize the t-statistic of the PnL over all ticks.
+Contains the Python implementation of the trading strategy developed for the DRW Data Science Case. The file includes the strategy function designed to maximize the t-statistic of the PnL over all ticks.
 
 ## Competition Details
-Event Information
-Dates: November 9-10, 2024
+Event Information \n
+Dates: November 9-10, 2024 
 Location: MIT Building E14, Multi-Purpose, Silverman Skyline, and Winter Garden Rooms
 Format: Electronic trading with two main cases—Market Making and Data Science
 
