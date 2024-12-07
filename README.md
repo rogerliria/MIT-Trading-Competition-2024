@@ -41,15 +41,20 @@ Contains the Python implementation of the trading strategy developed for the DRW
 ## Competition Details
 ### Event Information
 Dates: November 9-10, 2024
-Location: MIT Building E14, Multi-Purpose, Silverman Skyline, and Winter Garden Rooms
+
+Location: MIT Building E14
+
 Format: Electronic trading with two main cases—Market Making and Data Science
 
 ### Sponsors
 A special thank you to our sponsors for making this competition possible:
 
 Diamond: Citadel | Citadel Securities, Jane Street
+
 Platinum: DRW, Five Rings, Hudson River Trading, Jump Trading, Susquehanna
+
 Gold: Flow Traders, IMC Trading, Old Mission Capital
+
 Silver: Bridgewater Associates, The D. E. Shaw Group, Tower Research Capital, Two Sigma
 
 ## Acknowledgements
