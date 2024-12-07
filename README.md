@@ -1,1 +1,1 @@
-# mit-trading-comp-2024
+# Mit-Trading-Comp-2024
