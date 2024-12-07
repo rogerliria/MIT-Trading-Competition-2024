@@ -47,7 +47,7 @@ Location: MIT Building E14
 Format: Electronic trading with two main cases—Market Making and Data Science
 
 ### Sponsors
-A special thank you to our sponsors for making this competition possible:
+A special thank you to the sponsors for making this competition possible:
 
 Diamond: Citadel | Citadel Securities, Jane Street
 
