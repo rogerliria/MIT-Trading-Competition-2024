@@ -1,6 +1,6 @@
 # MIT Trading Competition 2024
 
-Welcome to the **MIT Trading Competition 2024** repository! This repository contains the resources and code developed for the 17th Annual Intercollegiate Trading Competition held on November 9-10, 2024.
+Welcome to my **MIT Trading Competition 2024** repository! I participated in the 17th Annual Intercollegiate Trading Competition held on November 9-10, 2024, and this repository contains the resources and code I developed for the competition.
 
 ## Table of Contents
 
